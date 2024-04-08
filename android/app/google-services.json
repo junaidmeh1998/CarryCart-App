@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740519045163",
+    "project_id": "carry-cart-app",
+    "storage_bucket": "carry-cart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740519045163:android:61ba0ac382e8d7d5a8e26e",
+        "android_client_info": {
+          "package_name": "com.example.carry_cart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_wMWm0TMfT_urwzGw9LlUaTv8C9dKj8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
